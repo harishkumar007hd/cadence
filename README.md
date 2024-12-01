@@ -4,7 +4,7 @@ Sky130 Day 1 - Inception of open-source EDA, OpenLANE and Sky130 PDK SKY130_D1_S
 DAY1
 Processor/SoC:
 ![1 1 processor](https://github.com/user-attachments/assets/6660c8ad-df09-4cae-a160-3c6b42a947c9)
-
+### **O4: Final Chip Design**
 Left Side Components
 JTAG-UART FTDI
 a) JTAG (Joint Test Action Group): Helps in testing and debugging the chip.
