@@ -1,6 +1,8 @@
 
 # Interactive Arrow Annotations in GitHub
 
+<div class="arrow"> 
+    
 Below is an example of an interactive arrow with contextual information.
 
 <div style="position: relative; display: inline-block; cursor: pointer;">
